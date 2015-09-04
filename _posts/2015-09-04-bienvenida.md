@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bienvenida…"
-date:   2015-09-03 21:11:35
+date:   2015-09-03 00:11:35
 author: "Blog QVAPRO | Red de profesionales de Cuba"
 categories: general
 ---
@@ -34,6 +34,8 @@ Y con QVAPRO podrás:
 También nos proponemos crear las condiciones para que los empleadores además de mostrar sus ofertas laborales puedan 
 darse a conocer y hagan “networking”, como la gran red de profesionales y emprendedores cubanos que somos.
 
-Cuando puedas Regístrate en QVAPRO, para ir contando contigo en nuestra Base de datos, tanto si eres profesional como 
+Cuando puedas [Regístrate en QVAPRO][link], para ir contando contigo en nuestra Base de datos, tanto si eres profesional como 
 dueño de negocio. Te estamos esperando…!
+
+[link]: {{ 'http://www.qvapro.com' }}
 

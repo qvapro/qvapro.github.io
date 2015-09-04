@@ -1,1 +1,0 @@
-# qvapro.github.io

@@ -1,0 +1,25 @@
+# Site settings
+title: Blog QVAPRO
+subtitle: Red de Profesionales de Cuba
+email: contacto@qvapro.com
+description: > # this means to ignore newlines until "baseurl:"
+              Write an awesome description for your new site here. You can edit this
+              line in _config.yml. It will appear in your document head meta (for
+              Google search results) and in your feed.xml site description.
+author: Blog QVAPRO | Red de Profesionales de Cuba
+baseurl: ""
+url: "http://blog.qvapro.com"
+twitter_username: qvapro
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+excerpt_separator: <!--more-->
+production: true
+lsi: false
+gems:
+ - jekyll-sitemap
+ - jemoji
+sass:
+  style: :compressed
+paginate: 4
+paginate_path: "/pagina/:num"

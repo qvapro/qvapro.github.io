@@ -1,0 +1,40 @@
+<header class="blog-masthead">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">
+
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><img alt="QVAPRO" height="32px" src="/img/brand.png"></a>
+    </div>
+    <nav class="">
+      <ul class="nav navbar-nav navbar-right">
+        <li {% if "/" == page.url %} class="active" {% endif %}>
+        <a href="/"><i class="fa fa-home"></i> <span class="hidden-xs">Inicio</span></a>
+        </li>
+        <!--<li {% if "/blog/" == page.url %} class="active" {% endif %}>-->
+        <!--<a href="/blog/"><i class="icon icon-bookmark"></i> <span class="hidden-xs">Blog</span></a>-->
+        </li>
+        <!--<li {% if "/about/" == page.url %} class="active" {% endif %}>-->
+        <!--<a href="/about/"><i class="icon icon-user-suit"></i> <span class="hidden-xs">Sobre Mi</span></a>-->
+        <!--</li>-->
+        {% for slink in site.data.social_links %}
+        <li class="hidden-xs"><a href="{{ slink.link }}" target="_blank"><i class="fa fa-{{ slink.type }}"></i></a></li>
+        {% endfor %}
+        <!--<li {% if "/contacto/" == page.url %} class="active" {% endif %}>-->
+        <!--<a href="/contacto/"><i class="icon icon-coffee"></i> <span class="hidden-xs">Contacto</span></a>-->
+        <!--</li>-->
+      </ul>
+
+    </nav><!--/.nav-collapse -->
+
+  </div>
+</div>

@@ -41,7 +41,7 @@ html {
     .navbar-nav {
         > li > a {
             text-transform: uppercase;
-            color: $color-primary-lt;
+            color: #666;
             &:focus, &:hover {
                 color: $color-secondary-lt;
                 background-color: transparent;

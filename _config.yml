@@ -3,9 +3,8 @@ title: Blog QVAPRO
 subtitle: Red de Profesionales de Cuba
 email: contacto@qvapro.com
 description: > # this means to ignore newlines until "baseurl:"
-              Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
+              QvaPro ofrece empleos a la comunidad profesional cubana. Pretendemos ser el primer punto de encuentro
+              entre el mejor capital cubano y empresas o negocios emergentes.
 author: Blog QVAPRO | Red de Profesionales de Cuba
 baseurl: ""
 url: "http://blog.qvapro.com"

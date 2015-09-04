@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bienvenida…"
-date:   2015-09-03 00:11:35
+date:   2015-09-04 03:11:35
 author: "Blog QVAPRO | Red de profesionales de Cuba"
 categories: general
 ---

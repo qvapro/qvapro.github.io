@@ -36,7 +36,7 @@ forma de presentación, muy de moda en la actualidad.
 1. <http://www.slideshare.net/jmcdcems/esto-no-es-mi-currculum-versin-actualizada>
 2. <http://www.slideshare.net/davidcrandall/my-antiresume-manifesto>
 
-Cada día te estaremos compartiéndo información interesante, y si aún no lo has hecho, *[regístrate en QvaPro][link]*, recuerda que 
+Cada día te estaremos compartiendo información interesante, y si aún no lo has hecho, *[regístrate en QvaPro][link]*, recuerda que 
 los primeros siempre tienen las mejores oportunidades ;)
 
 

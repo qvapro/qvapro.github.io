@@ -21,14 +21,14 @@ Comunmente es una de las primeras cosas que atrae a cualquier empleador antes de
 cuando hay muchas personas aplicando  un puesto es un criterio importante para sobresalir. 
 
 Los diseñadores por ejemplo, trabajan duro para mostrar sus portafolios, igual que los desarrolladores de software, que 
-preparan sus páginas personales como método de presentación, estos son ejemplo de portafolios de diseñadores bien 
-interesantes <http://line25.com/inspiration/graphic-designer-portfolio-websites>.
+preparan sus páginas personales como método de presentación, [estos son ejemplo de portafolios de diseñadores bien 
+interesantes](http://line25.com/inspiration/graphic-designer-portfolio-websites).
 
 Pero…. cuando estas lejos de áreas creativas o tecnológicas resulta útil tener un empujoncito, para garantizar elegancia 
 y sencillez. Te recomiendo este sitio, donde hay muchas plantillas, muy sencillas, que te pueden ayudar (*hay muuuchas 
 variantes de pago*)
 
-Plantillas gratis: <http://www.hloom.com/basic-resume-templates/>
+**[Plantillas gratis](http://www.hloom.com/basic-resume-templates/)**
 
 Para finalizar, (si no estás navegando con una conexión muy lenta), te recomiendo estos entretenidos y creativos CV en 
 forma de presentación, muy de moda en la actualidad.

@@ -2,8 +2,11 @@
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="/"><img alt="QVAPRO" height="32px" src="/img/brand.png"></a>
+      <a class="navbar-brand" href="/">
+        <img alt="QVAPRO" height="32px" src="/img/brand.png">
+      </a>
     </div>
+    <h1 class="navbar-text subtitle hidden-xs">{{ site.subtitle }}</h1>
     <nav class="">
       <ul class="nav navbar-nav navbar-right hidden-xs">
         <li {% if "/" == page.url %} class="active" {% endif %}>

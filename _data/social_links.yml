@@ -2,6 +2,8 @@
   type: twitter
 - link: https://www.linkedin.com/company/qvapro
   type: linkedin
+- link: https://www.facebook.com/qvapro
+  type: facebook
 - link: mailto:contacto@qvapro.com
   type: envelope
 - link: /feed.xml

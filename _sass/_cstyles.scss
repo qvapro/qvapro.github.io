@@ -11,6 +11,16 @@ article > header > h1, article > header > h1 > a{
   color:$color-secondary;
   font-weight: 900;
 }
+article{
+  .post-image{
+    &.pull-right{
+      margin: 20px 0 20px 20px;
+    }
+    &.pull-left{
+      margin: 20px 20px 20px 0;
+    }
+  }
+}
 article > aside {
   border-top: 1px dashed rgb(230, 230, 230);
   padding-top: 8px;

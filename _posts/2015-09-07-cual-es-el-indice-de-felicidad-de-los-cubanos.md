@@ -15,7 +15,13 @@ A pesar de que la felicidad es un concepto subjetivo, y que obviamente va a depe
 
 También tiene en cuenta la **corrupción** y la **libertad** de la que estos gozan en todos los ámbitos. 
 
+
 ##Y cuán felices somos los cubanos? 
+
+<a href="{{ '/img/posts/2015/09/indice-felicidad.jpg'  | prepend: site.url }}" target="_blank" class="thumbnail pull-right post-image">
+<img class=" img-responsive l" src="{{ '/img/posts/2015/09/indice-felicidad-thumb.jpg' | prepend: site.url  }}">
+<em class="small text-muted">Click para ver imagen original...</em>
+</a>
 
 El instinto rápidamente me lanzó a buscar en la larga lista a Cuba, para saber cómo nos posicionábamos, siempre acostumbramos a decir que los cubanos hacemos de cualquier oportunidad una fiesta, nos reímos de nuestros problemas, hacemos chistes de lo serio y música de nuestro llanto. Gracias a eso sobrevivimos el Período especial, el bloqueo, y cuanto momento difícil se nos presente dentro o fuera del país.
 
@@ -29,6 +35,7 @@ Pero… nada raro… estábamos en la corta lista de países ausentes al conteo 
 *	Ecuador está más alejado, pero tiene un delta positivo significativo respecto a la evaluación anterior. 
 
 Y se puede apreciar también que:
+
 *	Los jóvenes son más felices que los mayores.
 *	Las mujeres jóvenes son más felices que los hombres, hasta que llegan a una edad más madura, que se invierte y los hombres son más felices (*OH MY GOD, a las mujeres las pone triste ponerse maduritas*)
 *	La preocupación aumenta a medida que se envejece, sin embargo, en los hombres tiende a ser menor al comienzo de los 50.

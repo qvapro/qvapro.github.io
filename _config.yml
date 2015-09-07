@@ -20,5 +20,5 @@ gems:
  - jemoji
 sass:
   style: :compressed
-paginate: 4
+paginate: 1
 paginate_path: "/pagina/:num"

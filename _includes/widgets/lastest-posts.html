@@ -4,7 +4,7 @@
         {% for post in site.posts limit:5 %}
         <li class="media">
             <div class="media-body">
-                <a href="#"><h4 class="media-heading">{{ post.title }}</h4></a>
+                <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"><h4 class="media-heading">{{ post.title }}</h4></a>
 
                 <div class="meta small">
                     <i class="fa fa-calendar"></i>

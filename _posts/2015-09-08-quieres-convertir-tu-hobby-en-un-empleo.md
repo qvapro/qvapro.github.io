@@ -11,7 +11,7 @@ mayoritariamente se trata de negocios asociados a la alimentación, transporte, 
 Podría asegurar que muchos de los arriesgados que se decidieron a cambiarse a TCP, convirtieron lo que probablemente hacían 
 como hobby en un negocio y una forma de vida.
 
-<!--excerpt-->
+<!--more-->
 
 No hay nada más productivo que dedicarse a hacer lo que nos apasiona, dedicar el tiempo libre a escribir, a la jardinería, 
 a coleccionar artículos, pintar, decorar, programar, enseñar… Las personas que comienzan así son llamadas *Hobbypreneur* 
@@ -53,6 +53,7 @@ Y sobre todo no tengas miedo al fracaso, todos fallamos en algún punto de nuest
 Al final, lo importante es aprender a superar los obstáculos y seguir avanzando, como dice el poeta:
 
 <blockquote>
+<i class="fa fa-pie-chart fa-3x pull-left"></i>
 Caminante, son tus huellas/ el camino y nada más;<br/>
 Caminante, no hay camino,/ se hace camino al andar.
 </blockquote>

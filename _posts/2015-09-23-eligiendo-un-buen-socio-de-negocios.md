@@ -9,6 +9,8 @@ Una vez que uno tiene la idea clara del negocio que se quiere realizar, la pregu
 
 *¿hago esto en **solitario**?* o *¿busco un un socio con quien **compartir mi idea**?...*
 
+<!--more-->
+
 Pues bien estas pueden ser preguntas tan complejas como la vida misma, lamentablemente no tienen respuestas buenas o malas
 simplemente **dependerá de la calidad de emprendedor que uno sea o se considere que es** (lo que no es lo mismo)... 
 existirán aquellos que tienen plena confianza en sus capacidades y habilidades y determinarán que el mejor socio son

@@ -26,7 +26,7 @@ layout: page
                 {% when '12' %}Diciembre
                 {% endcase %}
                 {{ post.date | date: "%Y" }}
-
+                {% if post.author %} • {{ post.author }}{% endif %}
                 {% if post.meta %} • {{ post.meta }}{% endif %} •
                 <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via=qvapro&related=qvapro"
                    rel="nofollow" target="_blank" title="Comparte en Twitter"><i class="fa fa-twitter-square"></i> Twitter</a>

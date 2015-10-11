@@ -14,7 +14,7 @@ Hoy pocas reuniones prescinden de una presentación para reforzar el mensaje a c
 
 En general, hay **tres formas de estropear una presentación**:
 
-1. Una mala presentación. Para trabajar en este punto te presentamos este grupo de tips geniales para hacer tu presentación dinámica, creativa y moderna.
+1. Una mala presentación. Para trabajar en este punto te presentamos este grupo de tips geniales para hacer tu presentación dinámica, creativa y moderna. ([8 Tips for an Awesome Powerpoint Presentation](http://www.slideshare.net/damonnofar/8-tips-for-slideshare?related=2))([7 Tips to Beautiful PowerPoint by @itseugenec](http://www.slideshare.net/itseugene/7-tips-to-beautiful-powerpoint-by-itseugenec?related=3))
 
 2. Un mal discurso. A la hora de preparar una ponencia, es fundamental trabajar el "speech"  (repasándolo, corrigiéndolo y practicándolo mil veces) y su presentación no solo desde el punto de vista informativo o técnico, si no también desde el punto de vista de la comunicación. 
 

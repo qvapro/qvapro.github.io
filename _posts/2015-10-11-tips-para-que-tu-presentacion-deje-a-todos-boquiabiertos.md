@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Tips para que tu presentación deje a todos boquiabiertos
-date:   2015-09-11 15:11:35
+date:   2015-10-11 15:11:35
 author: "QvaPro"
 categories: presentaciones
 ---
